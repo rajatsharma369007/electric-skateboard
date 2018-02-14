@@ -16,7 +16,7 @@ Others : Skateboard, Skateboard wheels >63mm size, some plywood, Sprockets, Driv
 
 Here, I will not discuss the mechanical aspect of building the skateboard. I will just describe how to setup the circuit and how to  connect the android device with skateboard.  
 
-Below is the circuit diagram ( Task for you to complete and test the circuit, code provided in folder is for controlling the motor with the android phone )
+Below is the circuit diagram ( Here, I will not discuss how to connect the circuit, this is a task for you to complete and test the circuit. Code provided in folder is for controlling the motor with the android phone )
 
 ![alt text](https://github.com/rajatsharma369007/Electric-skateboard/blob/master/circuit/circuit.png)  
 
