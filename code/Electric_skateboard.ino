@@ -1,3 +1,8 @@
+// This program helps is controlling the brushless motor by serial communication
+// which is done between HC05 bluetooth module and Android app. 
+// Author: Rajat Sharma
+// Date : 15th November, 2015
+
 #define bluetooth Serial
 #include <Servo.h>
 Servo myServo;   
